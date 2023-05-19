@@ -1,5 +1,4 @@
-<img src="https://github.com/images/mona-whisper.gif" width="20px" height="20px">
-# Hello, World! 👋 my name is Adrian Garcia
+<img src="https://github.com/images/mona-whisper.gif" width="20px" height="20px"> Hello, World! 👋 my name is Adrian Garcia
 
 ## Skills
 
